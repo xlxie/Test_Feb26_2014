@@ -1,0 +1,25 @@
+  
+This is the output on my Macbook 15, with clang based on LLVM 5.0:
+
+  Constructor with ID = 2 is called
+  Constructor with ID = 1 is called
+starts
+  Constructor with ID = 3 is called
+  Constructor with ID = 4 is called
+  Constructor with ID = 5 is called
+Deconstructor with ID = 5 is called
+  Constructor with ID = 6 is called
+Deconstructor with ID = 6 is called
+  Constructor with ID = 10 is called
+  Constructor with ID = 7 is called
+  Constructor with ID = 8 is called
+  Constructor with ID = 9 is called
+Deconstructor with ID = 8 is called
+Deconstructor with ID = 9 is called
+Deconstructor with ID = 10 is called
+ends
+Deconstructor with ID = 5 is called
+Deconstructor with ID = 3 is called
+Deconstructor with ID = 7 is called
+Deconstructor with ID = 1 is called
+Deconstructor with ID = 2 is called
